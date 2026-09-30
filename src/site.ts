@@ -15,7 +15,7 @@ export const site = {
   packageName: 'com.mutely.app',
   playStoreUrl: 'https://play.google.com/store/apps/details?id=com.mutely.app',
   /** Legal name of whoever publishes the app on Google Play (person or company). */
-  publisher: 'REPLACE_ME: publisher legal name',
+  publisher: 'Awais Studio',
   /** Inbox for privacy requests and support. Must be monitored. */
   contactEmail: 'hafiz.awais.8834@gmail.com',
   /** Governing law for the Terms, e.g. "Pakistan" or "the State of California, USA". */
