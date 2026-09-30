@@ -17,7 +17,7 @@ export const site = {
   /** Legal name of whoever publishes the app on Google Play (person or company). */
   publisher: 'Awais Studio',
   /** Inbox for privacy requests and support. Must be monitored. */
-  contactEmail: 'hafiz.awais.8834@gmail.com',
+  contactEmail: 'getmutely@gmail.com',
   /** Governing law for the Terms, e.g. "Pakistan" or "the State of California, USA". */
   jurisdiction: 'REPLACE_ME: country or state',
   /** Shown on the Privacy Policy and Terms. Bump when the text changes. */
